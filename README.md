@@ -1,1 +1,4 @@
-# Proyecto-2_LPMB_1081126
+# Proyecto-2
+Granja por Consola
+
+Luis Martínez - 1081126
