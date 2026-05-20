@@ -310,7 +310,7 @@
                                         break;
                                 }
 
-                                if (dinero >= costo)
+                                if (dinero >= costo && costo > 0)
                                 {
                                     dinero -= costo;
                                     totalSemillas += costo;
